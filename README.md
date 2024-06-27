@@ -1,8 +1,17 @@
-# React + Vite
+# React Tailwind Shopping App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple shopping app built with React and Tailwind CSS. It provides a sleek user interface and smooth user experience for browsing and purchasing products.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Browse through a list of products
+- Add products to the shopping cart
+- Remove products from the shopping cart
+- Proceed to checkout with a simple form
+
+## Technologies Used
+
+- React
+- Tailwind CSS
+- Vite
+
